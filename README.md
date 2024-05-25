@@ -25,6 +25,5 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeniuX-arch&hide_progress=false&layout=compact  )
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeniuX-arch&hide_progress=false&layout=compact&bg_color=00000000  )
 [![GitHub Streak](https://streak-stats.demolab.com?user=GeniuX-arch&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
