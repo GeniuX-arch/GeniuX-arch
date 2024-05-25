@@ -1,11 +1,8 @@
-<div style="text-align: center;">
-  <img src="https://readme-typing-svg.demolab.com/?lines=👋+Bienvenido;+¿En+que+te+puedo+ayudar?)" alt="Descripción de la imagen" />
-</div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=👋+Bienvenido;+¿En+que+te+puedo+ayudar?" alt="Descripción de la imagen" />
+</h1>
 
-<!---
-GeniuX-arch/GeniuX-arch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
 # Tecnologies
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
