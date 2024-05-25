@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?center=true&color=4625da&lines=👋+Bienvenido;+¿En+que+te+puedo+ayudar?" alt="Descripción de la imagen" />
+  <img src="https://readme-typing-svg.demolab.com/?center=true&color=6b53cd&lines=👋+Bienvenido;+¿En+que+te+puedo+ayudar?" alt="Descripción de la imagen" />
 </h1>
 
 
@@ -34,3 +34,5 @@
 </picture>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=GeniuX-arch&theme=dark)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=GeniuX-arch&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
