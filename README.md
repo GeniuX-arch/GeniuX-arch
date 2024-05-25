@@ -23,10 +23,8 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?GeniuX-arch=anuraghazra&hide_progress=true)
 
 
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeniuX-arch&hide_progress=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=GeniuX-arch&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
