@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=👋+Bienvenido;+¿En+que+te+puedo+ayudar?" alt="Descripción de la imagen" />
+  <img src="https://readme-typing-svg.demolab.com/?center=true&color=4625da&lines=👋+Bienvenido;+¿En+que+te+puedo+ayudar?" alt="Descripción de la imagen" />
 </h1>
 
 
