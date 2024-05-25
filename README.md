@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?Bienvenido, sientete libre; ¿En que te puedo ayudar?)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?Bienvenido,-sientete-libre;-¿En-que-te-puedo-ayudar?)](https://git.io/typing-svg)
 
 
 <picture>
