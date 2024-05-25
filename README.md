@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?center=true&color=6b53cd&lines=👋+Bienvenido;+¿En+que+te+puedo+ayudar?" alt="Descripción de la imagen" />
+  <img src="https://readme-typing-svg.demolab.com?font=Days+One&weight=700&size=30&duration=3000&pause=2000&color=8F3CFF&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%91%8B+Welcome!;What+do+you+need%3F" alt="Typing SVG">
 </h1>
 
 
@@ -33,6 +33,6 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=GeniuX-arch&theme=dark)](https://git.io/streak-stats)
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=GeniuX-arch&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
