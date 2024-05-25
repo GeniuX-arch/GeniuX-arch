@@ -1,5 +1,4 @@
-# 👋 Hi there
-
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bienvenido;+¿En+que+te+puedo+ayudar?)](https://git.io/typing-svg)
 <!---
 GeniuX-arch/GeniuX-arch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -26,7 +25,6 @@ You can click the Preview link to take a look at your changes.
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bienvenido,-sientete-libre;-En-que-te-puedo-ayudar?)](https://git.io/typing-svg)
 
 
 <picture>
