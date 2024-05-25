@@ -4,7 +4,7 @@
 GeniuX-arch/GeniuX-arch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-#Tecnologies
+# Tecnologies
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?Bienvenido,-sientete-libre;-¿En-que-te-puedo-ayudar?)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?Bienvenido,-sientete-libre;-En-que-te-puedo-ayudar?)](https://git.io/typing-svg)
 
 
 <picture>
@@ -35,4 +35,4 @@ You can click the Preview link to take a look at your changes.
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
-[[![GitHub Streak](https://streak-stats.demolab.com/?user=GeniuX-arch&theme=dark)](https://git.io/streak-stats)]
+[![GitHub Streak](https://streak-stats.demolab.com/?user=GeniuX-arch&theme=dark)](https://git.io/streak-stats)
