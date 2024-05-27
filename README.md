@@ -2,8 +2,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=30&duration=3000&pause=1000&color=8F3CFF&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%91%8B+Welcome!;🤔What+do+you+need%3F;😀I+can+help+you" alt="Typing SVG" >
 </h1>
 
-<div class="tenor-gif-embed" data-postid="5368357" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/cat-computer-typing-fast-gif-5368357">Cat Computer GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <h2 align="center">
+  ![cat](https://tenor.com/view/cat-computer-typing-fast-gif-5368357)
+  <img src="https://tenor.com/view/cat-computer-typing-fast-gif-5368357" alt="Typing SVG" >
   your trusted web developer!
 </h2>
 
