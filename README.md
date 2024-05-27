@@ -3,13 +3,10 @@
 </h1>
 
 
-<iframe src="https://giphy.com/embed/mcsPU3SkKrYDdW3aAU" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-computer-mcsPU3SkKrYDdW3aAU">via GIPHY</a></p>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="200"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3BnaTQzNTJueHBxZGN1emNuMXdsN295NmJsZmJwZmxsNGk1ZnJsYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mcsPU3SkKrYDdW3aAU/giphy.gif" width="200"/>
 </div>
 <h2 align="center">
-  
-  <img src="https://tenor.com/view/cat-computer-typing-fast-gif-5368357" alt="" >
   your trusted web developer!
 </h2>
 
