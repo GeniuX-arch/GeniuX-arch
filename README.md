@@ -2,8 +2,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=30&duration=3000&pause=1000&color=8F3CFF&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%91%8B+Welcome!;🤔What+do+you+need%3F;😀I+can+help+you" alt="Typing SVG" >
 </h1>
 
-your trusted web developer!
-
+<div class="tenor-gif-embed" data-postid="5368357" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/cat-computer-typing-fast-gif-5368357">Cat Computer GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<h2 align="center">
+  your trusted web developer!
+</h2>
 
 
 # Tecnologies
@@ -26,7 +28,7 @@ your trusted web developer!
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 
-
+# Information
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeniuX-arch&hide_progress=false&layout=compact&bg_color=00000000&text_color=ffffff&hide_border=true  )
 [![GitHub Streak](https://streak-stats.demolab.com?user=GeniuX-arch&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
