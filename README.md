@@ -2,7 +2,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=30&duration=3000&pause=1000&color=8F3CFF&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%91%8B+Welcome!;🤔What+do+you+need%3F;😀I+can+help+you" alt="Typing SVG" >
 </h1>
 
-![cat](https://tenor.com/view/cat-computer-typing-fast-gif-5368357)
+
+<iframe src="https://giphy.com/embed/mcsPU3SkKrYDdW3aAU" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-computer-mcsPU3SkKrYDdW3aAU">via GIPHY</a></p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="200"/>
+</div>
 <h2 align="center">
   
   <img src="https://tenor.com/view/cat-computer-typing-fast-gif-5368357" alt="" >
